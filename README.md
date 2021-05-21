@@ -1,10 +1,11 @@
 ### Bikesharing Analysis
 
-##Overview of the analysis: 
+## Overview of the analysis
+
 The following analysis is done with the intention to uncover trends in usage of the city bike service in NYC. It is expected that by unconvering usage and profitability aspects it can support investors to establish the same transportation concept in Des Moins, Iowa.
 
 
-##Results:
+## Results
 With the information collected, it was identified that:
 
 1. Checkout times for users is no longer than one hour. This graph shows the length of time that a bike is checked out for all riders. The result portrays that a bike is checked out for a period of time no longer than one hour.
@@ -34,5 +35,5 @@ It is recommended to further analyze why, even though the stations are convenien
 
 LINK to dashboard: https://public.tableau.com/profile/paola4814#!/vizhome/BikeRide_Challenge/BikeRidesAnalysis
 
-##Summary: 
+## Summary 
 To sum-up, the bike ride service is extremely used in the NYC area. The male population uses it the most reason why, it is recommended further analysis towards how to appeal more to the female population. 
